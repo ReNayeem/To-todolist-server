@@ -1,7 +1,7 @@
 <h1>To-TodoList Server</h1>
 
 https://to-todolist.herokuapp.com/<br>
-https://to-todolist.herokuapp.com/items
+https://to-todolist.herokuapp.com/tasks
 
 <h3>Framework/Library used:</h3>
 <li>npm init -y</li>
