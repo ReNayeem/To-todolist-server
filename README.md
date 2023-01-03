@@ -1,7 +1,7 @@
 <h1>To-TodoList Server</h1>
 
-https://to-todolist.vercel.com/<br>
-https://to-todolist.vercel.com/tasks
+https://to-todolist.vercel.app/<br>
+https://to-todolist.vercel.app/tasks
 
 <h3>Framework/Library used:</h3>
 <li>npm init -y</li>
