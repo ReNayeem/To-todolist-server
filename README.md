@@ -1,7 +1,7 @@
 <h1>To-TodoList Server</h1>
 
-https://to-todolist-server.up.railway.app/<br>
-https://to-todolist-server.up.railway.app/tasks
+https://to-todolist-server.onrender.com/<br>
+https://to-todolist-server.onrender.com/tasks
 
 <h3>Framework/Library used:</h3>
 <li>npm init -y</li>
